@@ -1,5 +1,14 @@
 # NodeJS test file
-## to runthis project
+## to run this project
+
+```Shell
 ### npm i
 ### then 
 ### npm start
+```
+## to test this project
+
+
+### npm i
+### then 
+### npm test
