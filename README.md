@@ -3,12 +3,11 @@
 
 ```Shell
 ### npm i
-### then 
 ### npm start
 ```
 ## to test this project
 
-
+```shell
 ### npm i
-### then 
 ### npm test
+```
